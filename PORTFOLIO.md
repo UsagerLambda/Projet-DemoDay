@@ -64,15 +64,48 @@
 1. Quel MVP répond le mieux à nos critères ?  
 ```to fill```
 2. Quel problème précis notre MVP va-t-il résoudre ?  
-```to fill```
+```Le MVP vise à proposer une version jouable d'un point de vu technique```
 3. Qui sont nos utilisateurs cibles ?  
-```to fill```
+```Les amateurs de puzzle, de XR et ceux qui découvrent cet environnement```
 4. Quelles sont les fonctionnalités clés ?  
-```to fill```
+```
+- Écran d'Accueil
+
+    Interface utilisateur en réalité augmentée
+    Design épuré et intuitif
+    Options principales :
+    Nouvelle partie
+    Paramètres
+    Quitter le jeu
+
+- Rubik's Cube Fonctionnel
+
+    - Système de Rotation
+        Rotation libre dans l'espace 3D
+        Contraintes de connexion intelligentes
+        Validation en temps réel des chemins
+
+    - Points Clés
+        Modèle 3D précis du cube
+        Système de collision entre tuiles
+        Vérification automatique des connexions de chemin
+        Interactions intuitives via contrôleurs XR
+
+- Système de Déplacement
+
+    - Caractéristiques Principales
+        Navigation automatique basée sur NavMesh
+        Adaptation dynamique au chemin créé
+        Gestion des intersections et embranchements
+
+    - Mécanismes de Déplacement
+        Bouton "Run" pour lancer le mouvement
+        Arrêt automatique si chemin invalide
+        Suivi précis de la trajectoire définie
+        Feedback visuel du déplacement
+```
 5. Quels résultats attendons-nous ?  
-```to fill```
-6. Comment pouvons-nous améliorer le MVP si celui-ci est pré-assigné ?  
-```to fill```
+```Au minimum la réalisation du MVP, si possible rajouter les points suivants: to fill```
 
 ## Tâche 4 : Documentation 📝
 ### Questions de documentation :
