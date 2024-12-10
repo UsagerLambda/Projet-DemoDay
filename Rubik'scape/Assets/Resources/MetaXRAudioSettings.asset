@@ -9,6 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3552e428dc7646a88de3ed3650f87da, type: 3}
-  m_Name: OpenXRLoader
+  m_Script: {fileID: 11500000, guid: f3fe6e38ac2d4c22b04340d6eda2a47e, type: 3}
+  m_Name: MetaXRAudioSettings
   m_EditorClassIdentifier: 
+  voiceLimit: 64
